@@ -4,12 +4,12 @@
 Este proyecto contiene un conjunto de pruebas automatizadas para la API de Urban Grocers. Se validó el funcionamiento de los endpoints relacionados con la gestión de kits de productos.
 
 ## 🥐**Tecnologías utilizadas**  
-apiDoc: Documentación para entender el comportamiento esperado de los endpoints de la API de Urban Grocers.  
-Python: Lenguaje de programación principal  
-pytest: Framework para ejecutar las pruebas automatizadas    
-requests: Librería para realizar peticiones HTTP a la API   
-Postman: Herramienta para validación manual y verificación de resultados
-JSON: Formato de datos para las peticiones y respuestas
+- apiDoc: Documentación para entender el comportamiento esperado de los endpoints de la API de Urban Grocers.  
+- Python: Lenguaje de programación principal  
+- Pytest: Framework para ejecutar las pruebas automatizadas    
+- API REST: Librería para realizar peticiones HTTP a la API   
+- Postman: Herramienta para validación manual y verificación de resultados
+- JSON: Formato de datos para las peticiones y respuestas
 
 ## 🍖**Instrucciones**  
 1- Posicionarse en archivo create_kit_name_kit_test.py    
