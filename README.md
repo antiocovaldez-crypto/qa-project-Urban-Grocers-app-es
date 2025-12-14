@@ -1,4 +1,4 @@
-🛒**Proyecto 7: Pruebas de API para Urban Grocers**    
+🛒**Proyecto Automatizacion - Pruebas de API para Urban Grocers**    
 
 🍒**Descripción del proyecto**
 Este proyecto contiene un conjunto de pruebas automatizadas para la API de Urban Grocers. Se validó el funcionamiento de los endpoints relacionados con la gestión de kits de productos.
